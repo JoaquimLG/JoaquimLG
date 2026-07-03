@@ -1,10 +1,8 @@
 # Joaquim Laureano
 
-Sou estudante de Ciência da Computação na UEPB, com foco em **desenvolvimento back-end**.  
-Atualmente estudo e desenvolvo projetos aplicando boas práticas, organização de código e lógica sólida.
+Sou estudante de Ciência da Computação na UEPB, com foco em desenvolvimento back-end. Desenvolvo projetos aplicando boas práticas de programação, arquitetura de software e código organizado.
 
-Tenho maior interesse no desenvolvimento de aplicações back-end, principalmente utilizando Java e Spring Boot.  
-Também possuo interesse em **sistemas embarcados e IoT**, com experiências iniciais envolvendo microcontroladores e integração entre software e hardware.
+Tenho experiência no desenvolvimento de aplicações back-end utilizando Java e Spring Boot, além de interesse em sistemas embarcados e IoT, atuando em projetos que envolvem microcontroladores e integração entre software e hardware.
 
 <br>
 
@@ -13,8 +11,10 @@ Também possuo interesse em **sistemas embarcados e IoT**, com experiências ini
 <span>
   <code><img src="https://skillicons.dev/icons?i=java" /></code>
   <code><img src="https://skillicons.dev/icons?i=spring" /></code>
-  <code><img src="https://skillicons.dev/icons?i=git" /></code>
-  <code><img src="https://skillicons.dev/icons?i=python" /></code>
   <code><img src="https://skillicons.dev/icons?i=c" /></code>
   <code><img src="https://skillicons.dev/icons?i=cpp" /></code>
+  <code><img src="https://skillicons.dev/icons?i=python" /></code>
+  <code><img src="https://skillicons.dev/icons?i=git" /></code>
+  <code><img src="https://skillicons.dev/icons?i=postman" /></code>
+  <code><img src="https://skillicons.dev/icons?i=arduino" /></code>
 </span>
